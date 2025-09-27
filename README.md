@@ -34,8 +34,9 @@ Set up a basic Jenkins pipeline to automate building and deploying a Node.js app
 
 ## Jenkins Console Output
 - Saved console output file: `console-output.txt`
-- Pipeline finished successfully: ✅ Build & Deploy stages completed.
+- Pipeline finished successfully:  Build & Deploy stages completed.
 
 ## Notes
 - Docker Desktop WSL integration enabled for Jenkins access.
 - Old containers are automatically removed before deploying new one.
+
